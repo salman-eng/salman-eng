@@ -41,7 +41,7 @@
 
 ---
 
-- 🔭 I’m currently working on building a CRM for my elder brother's loose cargo handling business using the MERN stack.  
+- 🔭 I’m currently working on building a CRM for our cargo handling business using the MERN stack.  
 - 🌱 I’m learning to code by building projects — if you’ve got something I can help with, hit me up.  
 - 👯 I’m looking to collaborate on anything that gives me an opportunity to learn and practice code.  
 - 💬 Ask me about how I can help with your project.  
